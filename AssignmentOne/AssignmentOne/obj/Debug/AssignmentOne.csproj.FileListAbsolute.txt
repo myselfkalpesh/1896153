@@ -1,0 +1,7 @@
+C:\Users\1896153\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe.config
+C:\Users\1896153\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe
+C:\Users\1896153\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.pdb
+C:\Users\1896153\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csprojAssemblyReference.cache
+C:\Users\1896153\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\1896153\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.exe
+C:\Users\1896153\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.pdb
